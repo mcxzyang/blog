@@ -1,7 +1,7 @@
 <div class="ui fixed inverted menu" style="background-color: #323840">
     <div class="ui container">
         <a href="/" class="header item">
-            <img class="logo" src="/frontend/images/logo.png">
+            <img class="logo" src="/frontend/image/logo.png">
             主页
         </a>
         <a href="{{ url('/album') }}" class="item">专辑</a>

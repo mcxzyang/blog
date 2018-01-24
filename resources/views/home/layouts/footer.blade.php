@@ -34,7 +34,7 @@
             </div>
         </div>
         <div class="ui inverted section divider"></div>
-        <img src="/frontend/images/logo.png" class="ui centered mini image">
+        <img src="/frontend/image/logo.png" class="ui centered mini image">
         <div class="ui horizontal inverted small divided link list">
             <a class="item" href="#">Site Map</a>
             <a class="item" href="#">Contact Us</a>
