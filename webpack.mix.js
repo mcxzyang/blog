@@ -23,7 +23,7 @@ mix.styles([
     'public/frontend/css/main.css'
 ], 'public/frontend/css/app.css').version();
 
-mix.scripts([
+mix.babel([
     'public/backend/js/jquery.min.js',
     'public/backend/js/bootstrap.min.js',
     'public/backend/js/cropper.min.js',
